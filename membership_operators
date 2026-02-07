@@ -1,0 +1,5 @@
+# in , not in
+print('Bakul' in "Md Sazzatul Miraz bakul")
+friuts = ["orange", "Mango", "Pineapple"]
+print("Guava" in friuts)
+print("ramesh" not in "Md Sazzatul Miraz bakul")
