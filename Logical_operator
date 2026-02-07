@@ -1,0 +1,6 @@
+# and , or , not
+print((5 > 3) and (3 > 7))
+print((4 > 2) or (4<3))
+
+Z = False
+print(not Z)
